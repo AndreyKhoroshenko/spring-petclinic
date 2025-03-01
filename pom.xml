@@ -10,7 +10,7 @@
   </parent>
 
   <groupId>org.springframework.samples</groupId>
-  <artifactId>petclinic-Khoroshenko</artifactId>
+  <artifactId>petclinic-khoroshenko</artifactId>
   <version>3.4.0-SNAPSHOT</version>
 
   <name>petclinic</name>
